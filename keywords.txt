@@ -1,0 +1,30 @@
+#######################################
+# Syntax Coloring Map Servo
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+LoRa	KEYWORD1	LoRa
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+init				KEYWORD2
+rxInit				KEYWORD2
+sendPackage			KEYWORD2
+receivePackage		KEYWORD2
+waitIrq				KEYWORD2
+idle  				KEYWORD2
+sleep   			KEYWORD2
+clearIRQFlags  		KEYWORD2
+setFrequency  		KEYWORD2
+setRFpara   		KEYWORD2
+setPreambleLen  	KEYWORD2
+setHeaderMode  		KEYWORD2
+readRSSI			KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
